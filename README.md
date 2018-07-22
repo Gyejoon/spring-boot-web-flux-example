@@ -1,4 +1,4 @@
-# spring-boot-web-flux-java-example
+# spring-boot-web-flux-example
 
 ```
 1. language : java
