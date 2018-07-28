@@ -3,7 +3,7 @@
 ```
 1. language : java
 2. framework : spring boot 2.0 reactive
-3. database : cassandra
+3. database : cassandra, redis
 ```
 
 
